@@ -3,3 +3,4 @@ First change!
 Second change local.
 Change in GitHub-Repo!
 Resolve by adding the two changes together!
+Change in myBranch!
