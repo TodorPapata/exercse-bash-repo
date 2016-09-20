@@ -4,3 +4,6 @@ Second change local.
 Change in GitHub-Repo!
 Resolve by adding the two changes together!
 A change in master branch!
+Change in myBranch!
+Resolved the conflict by writing both changes!
+
